@@ -1,4 +1,4 @@
-## Hi there 👋
+## Desarrollo de Software & Entusiasta Linux
 
 <!--
 **Belushi-ui/Belushi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
