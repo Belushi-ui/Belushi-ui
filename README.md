@@ -1,16 +1,17 @@
 ## Desarrollo de Software & Entusiasta Linux
 
-<!--
-**Belushi-ui/Belushi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🌿 ¡Hola! Soy Ade 🍵
+### *Desarrolladora de Software & Entusiasta de Linux*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cottagecore Divider](https://raw.githubusercontent.com/andreasbm/readme-dummy/master/responsive-berlin.png) <!-- Puedes reemplazar con un banner o GIF en pixel art -->
+
+```text
+       _.-""-._
+     .'  _.-_  '.      "Codificando ideas, explorando sistemas
+    /   (    )   \      y disfrutando del proceso."
+   |  .-'    '-.  |
+    \  \      /  /
+     '. '-..-' .'
+       '-....-'
