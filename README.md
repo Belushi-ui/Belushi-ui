@@ -12,16 +12,16 @@
 
 🌿 Sobre mí
 
-    ☕ Intereses: Entornos Linux, scripts de automatización, desarrollo web y proyectos de software libre.
+☕ Intereses: Entornos Linux, scripts de automatización, desarrollo web y proyectos de software libre.
 
-    🍄 Enfoque: Construir soluciones limpias, funcionales y bien estructuradas.
+🍄 Enfoque: Construir soluciones limpias, funcionales y bien estructuradas.
 
-    📜 Pronombres: He / She / They
+📜 Pronombres: He / She / They
 
 📂 Proyectos Destacados
 
-    Bot de automatización en Python diseñado con discord.py y base de datos MongoDB (motor) para la gestión e interacción en comunidades.
+Bot de automatización en Python diseñado con discord.py y base de datos MongoDB (motor) para la gestión e interacción en comunidades.
 
-    Aplicación e interfaz interactiva desarrollada en JavaScript, HTML y CSS para la presentación de contenidos multimedia y galerías.
+Aplicación e interfaz interactiva desarrollada en JavaScript, HTML y CSS para la presentación de contenidos multimedia y galerías.
 
-    Sitio y blog personalizado construido con tecnologías web estándares (CSS, HTML, JavaScript) para publicación de feeds e ideas.
+Sitio y blog personalizado construido con tecnologías web estándares (CSS, HTML, JavaScript) para publicación de feeds e ideas.
