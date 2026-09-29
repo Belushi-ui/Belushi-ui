@@ -23,12 +23,6 @@
 
     Bot de automatización en Python diseñado con discord.py y base de datos MongoDB (motor) para la gestión e interacción en comunidades.
 
-    🔗 Ver repositorio
-
     Aplicación e interfaz interactiva desarrollada en JavaScript, HTML y CSS para la presentación de contenidos multimedia y galerías.
 
-    🔗 Ver repositorio
-
     Sitio y blog personalizado construido con tecnologías web estándares (CSS, HTML, JavaScript) para publicación de feeds e ideas.
-
-    🔗 Ver repositorio
