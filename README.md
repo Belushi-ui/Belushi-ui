@@ -9,7 +9,7 @@
  <img src="16466354885494798.jpg" width="100%" />
 
 ```text
-   #  "Codificando ideas, explorando sistemas
+   "Codificando ideas, explorando sistemas
      y disfrutando del proceso."
 
 ╭─────────────────────────────────────────────────────────────╮
