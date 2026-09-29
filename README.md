@@ -4,7 +4,7 @@
 
 # 🌿 ¡Hola! Soy Ade 🍵
 <div align="center">
- <img src="./nombre-de-tu-imagen.gif" width="100%" />
+ <img src="16466354885494798.jpg" width="100%" />
 
 ```text
      "Codificando ideas, explorando sistemas
