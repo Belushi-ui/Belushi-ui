@@ -20,6 +20,12 @@
 
 📂 Proyectos Destacados
 
-Bot de automatización en Python diseñado con discord.py y base de datos MongoDB para la gestión e interacción en comunidades.
-Aplicación e interfaz interactiva desarrollada en JavaScript, HTML y CSS para la presentación de contenidos multimedia y galerías.
-Sitio y blog personalizado construido con tecnologías web estándares como CSS, HTML y JavaScript para publicación de feeds e ideas.
+Bot de automatización en Python diseñado con discord.py y base de datos MongoDB
+para la gestión e interacción en comunidades.
+Aplicación e interfaz interactiva desarrollada en JavaScript, HTML y CSS para la presentación
+de contenidos multimedia y galerías.
+Sitio y blog personalizado construido con tecnologías web estándares como CSS, HTML
+y JavaScript para publicación de feeds e ideas.
+```
+<div align="center">
+ <img src="16466354885494798.jpg" width="100%" />
