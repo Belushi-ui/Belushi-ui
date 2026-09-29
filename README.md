@@ -28,4 +28,4 @@ Sitio y blog personalizado construido con tecnologías web estándares como CSS,
 y JavaScript para publicación de feeds e ideas.
 ```
 <div align="center">
- <img src="16466354885494798.jpg" width="100%" />
+ <img src="77eef18d24ef496f6332f7f89142388c.gif" width="100%" />
