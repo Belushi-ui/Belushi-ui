@@ -3,8 +3,9 @@
 <div align="center">
 
 # 🌿 ¡Hola! Soy Ade 🍵
-
-![Cottagecore Divider](https://raw.githubusercontent.com/andreasbm/readme-dummy/master/responsive-berlin.png) <!-- Puedes reemplazar con un banner o GIF en pixel art -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/80/4b/8d/804b8d781e8eb95c1c0458a221f73602.gif" width="80%" />
+</div>
 
 ```text
      "Codificando ideas, explorando sistemas
